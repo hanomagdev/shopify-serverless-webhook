@@ -1,4 +1,4 @@
-name = "shopify-webhook-handler"
-main = "src/index.js"
+name = "shopify-order-middleware"
+main = "src/index.ts"
 compatibility_date = "2024-09-23"
-compatibility_flags = ["nodejs_compat"]  # Включает Node.js API, включая crypto
+compatibility_flags = ["nodejs_compat"]
