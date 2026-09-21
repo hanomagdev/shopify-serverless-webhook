@@ -1,0 +1,4 @@
+name = "shopify-webhook-handler"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]  # Включает Node.js API, включая crypto
